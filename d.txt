@@ -4,3 +4,5 @@ add new line in d.txt file
 test stage working`
 git checkout e11ess
 diff test
+test stash2
+test stash
